@@ -30,10 +30,10 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 
 | Tool / Library      | Purpose                                                                 |
 |---------------------|-------------------------------------------------------------------------|
-| **Flutter**         | Build fast and beautiful native apps with one codebase (Android/iOS)    |
-| **YouTube Explode** | Fetch metadata (title, duration, channel, etc.) from YouTube            |
-| **Piped API**       | Search & stream videos using privacy-respecting proxy frontend          |
-| **Invidious API**   | Backup proxy-based search & feed access (some features limited)         |
+| **Flutter**         |    UI + 95% Logic |
+| **YouTube Explode Servers** | Fetch metadata (title, duration, channel, etc.) from YouTube            |
+| **Piped API Servers**       | Search & stream videos using privacy-respecting proxy frontend          |
+| **Invidious API Servers**   | Backup proxy-based search & feed access (some features limited)         |
 | **yt-dlp** *(planned)*   | Advanced stream fetching, supports HQ video/audio + better fallback |
 | **FFmpeg** *(planned)*   | Merge separate video/audio streams, subtitles, and format conversion |
 | **Custom Updater**  | Checks GitHub release version silently and alerts the user              |
