@@ -58,7 +58,7 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 
 ## 🪫 Technical Limitations
 
-- 👨‍🚒**NFSW** - for obvious reasons 
+- 👨‍🚒**No NFSW** - for obvious reasons 
 - 🔄 **APIs may break** – Piped/Invidious/Explode are not official; they can stop working if YouTube changes things
 - 🚫 **No Google Account Integration at a certain level** – No history sync, likes, comments
 - 🌍 **Geo & Trending Data** may be inaccurate
