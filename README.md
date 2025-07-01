@@ -41,8 +41,10 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 ---
 
 ## 🔮 Planned Features (Inspired by YouTube Premium)
-- 🤏 **Mini-Player** - implemented but turned off to save constrains/app the is doing to much work at its thread if off.
-- 🫆 **Login Support** - To fetch your subscriptions , Playlists, Liked Videos & History over the app.
+
+- 🥚 **User Interest Provider** - get videos based on your interest or mood.
+- 🤏 **Mini-Player** - implemented but turned off to save constrains reports **app the is doing to much work at its thread**.
+- 🫆 **Login Support** - To fetch your subscriptions , Playlists, Liked Videos & History but without ads over the app.
 - 📤 **Picture-in-Picture (PiP)** Mode  
 - 📌 **Continue Watching** – Resume where you left off  
 - 📝 **Captions Support** – Auto-fetch and support multiple languages  
@@ -56,6 +58,7 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 
 ## 🪫 Technical Limitations
 
+- 👨‍🚒**NFSW** - for obvious reasons 
 - 🔄 **APIs may break** – Piped/Invidious/Explode are not official; they can stop working if YouTube changes things
 - 🚫 **No Google Account Integration at a certain level** – No history sync, likes, comments
 - 🌍 **Geo & Trending Data** may be inaccurate
