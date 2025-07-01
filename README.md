@@ -86,7 +86,7 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 |--------------------|------------------------|
 | Snapdragon / Modern phones (64-bit) | `silkplayer-app-arm64-v8a-release.apk` |
 | Older / MediaTek / Legacy devices   | `silkplayer-app-armeabi-v7a-release.apk` |
-| Universal App / May break for non androids |
+| Universal App / May break for non androids|
 `silkplayer-app-x86-release.apk` |
 
 ---
