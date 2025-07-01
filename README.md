@@ -19,7 +19,7 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 
 - ~~🔊 **Background (BF) Playback** – Continue audio while app is minimized or while the screen is off~~ (Has bugs still Fixing)
 - 🎨 **3 Themes** – Light, ~~Dark~~, AMOLED  
-- 🔍 **Search**, **Trending**, and Random Video Feeds  (future channel based videos options) 
+- 🔍 **Search**, **Trending**, and Random Video Feeds 
 - 💡 **Auto Update Checker** – Notifies when a new version is available  
 - 📥 **Saved Videos** (future offline support)  
 - 🔒 **No Ads**, **No Tracking**, **No Account Required**
@@ -42,10 +42,10 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 
 ## 🔮 Planned Features (Inspired by YouTube Premium)
 - 🤏 **Mini-Player** - implemented but turned off to save constrains/app the is doing to much work at its thread if off.
-
+- 🫆 **Login Support** - To fetch your subscriptions , Playlists, Liked Videos & History over the app.
 - 📤 **Picture-in-Picture (PiP)** Mode  
 - 📌 **Continue Watching** – Resume where you left off  
-- 📝 **Subtitles** – Auto-fetch and support multiple languages  
+- 📝 **Captions Support** – Auto-fetch and support multiple languages  
 - 📈 **Quality Selector** – Choose 144p–1080p (and audio only)  
 - 🎧 **Audio Only Mode** – Save bandwidth and just listen  
 - 📂 **Offline Download Support**  
