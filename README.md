@@ -18,7 +18,7 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 ✅ Already Working:
 
 - ~~🔊 **Background (BF) Playback** – Continue audio while app is minimized or while the screen is off~~ (Has bugs still Fixing)
-- 🎨 **3 Themes** – Light, Dark, AMOLED  
+- 🎨 **3 Themes** – Light, ~~Dark~~, AMOLED  
 - 🔍 **Search**, **Trending**, and Random Video Feeds  (future channel based videos options) 
 - 💡 **Auto Update Checker** – Notifies when a new version is available  
 - 📥 **Saved Videos** (future offline support)  
