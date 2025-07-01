@@ -60,7 +60,7 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 
 - 👨‍🚒**No NFSW** - for obvious reasons 
 - 🔄 **APIs may break** – Piped/Invidious/Explode are not official; they can stop working if YouTube changes things
-- 🚫 **No Google Account Integration at a certain level** – No history sync, likes, comments
+- 🚫 **No Google Account Integration at a certain level** – No feed sync, comments
 - 🌍 **Geo & Trending Data** may be inaccurate
 - ⏳ **Stream Quality Control** is limited (until `yt-dlp` is integrated)
 - 🧩 **Subtitle & Playlist Support** coming soon
