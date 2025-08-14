@@ -32,7 +32,7 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 |---------------------|-------------------------------------------------------------------------|
 | **Flutter**         |    UI + 95% Logic |
 | **YouTube Explode Servers** | Fetch metadata (title, duration, channel, etc.) from YouTube            |
-| **Piped API Servers**       | Search & stream videos using privacy-respecting proxy frontend          |
+| ~~~**Piped API Servers**       | Search & stream videos using privacy-respecting proxy frontend~~~          |
 | **Invidious API Servers**   | Backup proxy-based search & feed access (some features limited)         |
 | **yt-dlp** *(planned)*   | Advanced stream fetching, supports HQ video/audio + better fallback |
 | **FFmpeg** *(planned)*   | Merge separate video/audio streams, subtitles, and format conversion |
