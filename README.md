@@ -69,7 +69,6 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 
 ## 📸 Screenshots
 
-> *(Replace with real images in your `/screenshots` folder)*
 
 - ![Home](screenshots/home.png)
 - ![Trending](screenshots/trending.png)
