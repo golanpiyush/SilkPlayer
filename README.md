@@ -59,7 +59,7 @@ This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
 ## 🪫 Technical Limitations
 
 - 👨‍🚒**No NFSW** - for obvious reasons 
-- 🔄 **APIs may break** – Piped/Invidious/Explode are not official; they can stop working if YouTube changes things
+- 🔄 **APIs may break** – Explode is not official neither is YTDLP; they can stop working if YouTube changes things
 - 🚫 **No Google Account Integration at a certain level** – No feed sync, comments
 - 🌍 **Geo & Trending Data** may be inaccurate
 - ⏳ **Stream Quality Control** is limited (until `yt-dlp` is integrated)
