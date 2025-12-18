@@ -4,13 +4,7 @@
 
 No ads. 
 No distractions why you ask? explore... 
-This is YouTube the way it *should* feel & be — minimal, powerful & FFA.
-
-
-> ### 🧠 I stand by:  
-> **"You cannot bottle the truth.  
-> Wisdom flows free — not behind the dams of greed."**
-
+This is YouTube the way it *should* feel & be — minimal, powerful & Ffmpeg
 ---
 
 ## 🚀 Features
