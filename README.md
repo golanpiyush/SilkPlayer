@@ -4,7 +4,7 @@
 
 No ads. 
 No distractions why you ask? explore... 
-This is YouTube the way it *should* feel & be — minimal, powerful & Ffmpeg
+This is YouTube the way it *should* feel & be — minimal, powerful & Free
 ---
 
 ## 🚀 Features
